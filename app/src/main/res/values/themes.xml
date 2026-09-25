@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ColorPath" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#070814</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.ColorPath.Main</item>
+    </style>
+    <style name="Theme.ColorPath.Main" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#070814</item>
+        <item name="android:statusBarColor">#070814</item>
+        <item name="android:navigationBarColor">#070814</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

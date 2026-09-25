@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Path 3D</string>
+    <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_banner_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_interstitial_unit" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_rewarded_unit" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="ad_app_open_unit" translatable="false">ca-app-pub-3940256099942544/9257395921</string>
+    <string name="play_games_app_id" translatable="false">000000000000</string>
+    <string name="leaderboard_high_score" translatable="false">CgkIhighscore</string>
+    <string name="leaderboard_fastest" translatable="false">CgkIfastest</string>
+    <string name="leaderboard_daily" translatable="false">CgkIdaily</string>
+    <string name="leaderboard_weekly" translatable="false">CgkIweekly</string>
+    <string name="leaderboard_monthly" translatable="false">CgkImonthly</string>
+</resources>
